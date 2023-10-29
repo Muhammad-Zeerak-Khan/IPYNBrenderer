@@ -162,3 +162,5 @@ cython_debug/
 # Ignore log files
 *.log
 
+# Ignore VS Code files
+.vscode/*
