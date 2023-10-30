@@ -6,9 +6,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.4"
 
-REPO_NAME = "IPYNBrenderer"
+REPO_NAME = "ZkIPYNBrenderer"
 AUTHOR_USER_NAME = "Muhammad Zeerak Khan"
-SRC_REPO = "IPYNBrenderer"
+SRC_REPO = "ZkIPYNBrenderer"
 AUTHOR_EMAIL = "zeerak1994@outlook.com"
 
 setuptools.setup(
